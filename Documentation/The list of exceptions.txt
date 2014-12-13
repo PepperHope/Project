@@ -6,7 +6,7 @@ NOT_APPROPRIATE_STATUS	| 10001 | You are not able to use this system action with
 /* --------------------------------------------------------- */
 EXC_LINKED_FEATURE | 10002 | You are not able to amend or refuse this feature: it is linked to a product at the moment
 /* --------------------------------------------------------- */
-EXC_NOTAPP_FEATURE | 10003 | You cannot use this collection of features: at least one of them not approved.
+EXC_NOTAPP_FEATURE | 10003 | You cannot use this collection of features: at least one of them is not approved.
 /* --------------------------------------------------------- */
 EXC_NOTACT_FT | 10004 | You cannot use this collection of features: at least one of them has not active feature type.
 /* --------------------------------------------------------- */
